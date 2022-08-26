@@ -1,0 +1,6 @@
+1661492020.566313834s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/qsiprep/sub-NDARKG697CEW/ses-HBNsiteCBIC/anat/sub-NDARKG697CEW_ses-HBNsiteCBIC_acq-HCP_run-01_from-orig_to-T1w_mode-image_xfm.txt
+1661494766.701848124s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/qsiprep/sub-NDARLG987WB0/ses-HBNsiteCBIC/anat/sub-NDARLG987WB0_ses-HBNsiteCBIC_acq-HCP_from-orig_to-T1w_mode-image_xfm.txt
+1661496536.312390786s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/qsiprep/sub-NDARMA449YB6/ses-HBNsiteCBIC/anat/sub-NDARMA449YB6_ses-HBNsiteCBIC_acq-HCP_from-orig_to-T1w_mode-image_xfm.txt
+1661500902.326449869s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/qsiprep/sub-NDARNK489GNR/ses-HBNsiteCBIC/anat/sub-NDARNK489GNR_ses-HBNsiteCBIC_acq-HCP_from-orig_to-T1w_mode-image_xfm.txt
+1661507098.401014094s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/qsiprep/sub-NDARRZ145TFN/ses-HBNsiteCBIC/anat/sub-NDARRZ145TFN_ses-HBNsiteCBIC_acq-HCP_from-orig_to-T1w_mode-image_xfm.txt
+1661521416.777325199s 1 :http://fcp-indi.s3.amazonaws.com/data/Projects/HBN/BIDS_curated/derivatives/qsiprep/sub-NDARZA982YTP/ses-HBNsiteCUNY/anat/sub-NDARZA982YTP_ses-HBNsiteCUNY_acq-HCP_from-orig_to-T1w_mode-image_xfm.txt
