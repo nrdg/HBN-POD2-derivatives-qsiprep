@@ -1,0 +1,4 @@
+[submodule "derivatives/dlqc"]
+	path = derivatives/dlqc
+	url = ./derivatives/dlqc
+	datalad-id = a8865cd4-6a5a-4523-93a0-a75823a6f48a
